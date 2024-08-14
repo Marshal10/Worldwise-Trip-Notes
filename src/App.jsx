@@ -1,10 +1,10 @@
-import "./App.css";
+import "./index.css";
+import Homepage from "./pages/Homepage";
 
 function App() {
-  const x = 23;
   return (
     <>
-      <h1>WorldWise App</h1>
+      <Homepage />
     </>
   );
 }
