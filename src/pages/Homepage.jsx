@@ -8,7 +8,7 @@ function Homepage() {
       <PageNav />
       <section>
         <h1>
-          You travel the world
+          You travel the world.
           <br />
           WorldWise keeps track of your adventures.
         </h1>
