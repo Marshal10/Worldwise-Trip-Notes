@@ -1,3 +1,4 @@
+import BackButton from "./BackButton";
 import Button from "./Button";
 import styles from "./Form.module.css";
 import DatePicker from "react-datepicker";
@@ -23,7 +24,7 @@ function Form() {
 
       <div className={styles.buttons}>
         <Button type="primary">Add</Button>
-        <button>&larr; Back</button>
+        <BackButton />
       </div>
     </form>
   );
