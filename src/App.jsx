@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import { BrowserRouter, Routes, Route, Form, Navigate } from "react-router-dom";
+import { BrowserRouter, Routes, Route, Navigate } from "react-router-dom";
 import "./index.css";
 import Homepage from "./pages/Homepage";
 import Login from "./pages/Login";
@@ -9,6 +9,7 @@ import AppLayout from "./pages/AppLayout";
 import PageNotFound from "./pages/PageNotFound";
 import CityList from "./components/CityList";
 import CountryList from "./components/CountryList";
+import Form from "./components/Form";
 import City from "./components/City";
 
 const BASE_URL = "http://localhost:9000";

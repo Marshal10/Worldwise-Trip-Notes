@@ -10,7 +10,7 @@ const formatDate = (date) =>
 
 function City() {
   const { id } = useParams();
-  console.log(id);
+
   return (
     <div>
       <div>
