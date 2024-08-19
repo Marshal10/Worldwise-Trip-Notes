@@ -1,3 +1,40 @@
 {
-  "cities": []
+  "cities": [
+    {
+      "id": "41c8",
+      "cityName": "La Nocle-Maulaix",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-08-19T14:56:57.374Z",
+      "notes": "nice\n",
+      "position": {
+        "lat": "46.78501604269256",
+        "lng": "3.7573242187500004"
+      }
+    },
+    {
+      "id": "ca1a",
+      "cityName": "Torshavn",
+      "country": "Faroe Islands (the)",
+      "emoji": "🇫🇴",
+      "date": "2024-08-19T14:57:06.485Z",
+      "notes": "adsd",
+      "position": {
+        "lat": "61.907926072709756",
+        "lng": "-7.097167968750001"
+      }
+    },
+    {
+      "id": "c392",
+      "cityName": "Þingeyjarsveit",
+      "country": "Iceland",
+      "emoji": "🇮🇸",
+      "date": "2024-08-19T14:57:15.181Z",
+      "notes": "",
+      "position": {
+        "lat": "64.88626540914477",
+        "lng": "-18.171386718750004"
+      }
+    }
+  ]
 }
