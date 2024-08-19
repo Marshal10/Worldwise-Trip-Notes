@@ -19,7 +19,7 @@ function Pricing() {
           </p>
         </div>
         <img
-          src="../public/img-2.jpg"
+          src="../img-2.jpg"
           alt="overview of a large city with skyscrapers"
         />
       </section>
