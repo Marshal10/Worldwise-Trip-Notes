@@ -1,3 +1,28 @@
 {
-  "cities": []
+  "cities": [
+    {
+      "id": "a6a2",
+      "cityName": "Los Rabanos",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-08-20T15:14:39.655Z",
+      "notes": "aa",
+      "position": {
+        "lat": "41.705728515237524",
+        "lng": "-2.4829101562500004"
+      }
+    },
+    {
+      "id": "100a",
+      "cityName": "Argences en Aubrac",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-08-20T15:15:15.701Z",
+      "notes": "",
+      "position": {
+        "lat": "44.74673324024681",
+        "lng": "2.9223632812500004"
+      }
+    }
+  ]
 }
